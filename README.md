@@ -1,4 +1,4 @@
-ViewModel and ViewModelFactory - Starter Code
+ViewModel and ViewModelFactory - Starter Code branch 5.2
 ==================================
 
 Use as starter code for the ViewModel codelab.
